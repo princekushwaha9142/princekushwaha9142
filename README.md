@@ -1,58 +1,77 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+...+👋;+I'm+Prince+Kumar!;" />
+  Hi 👋, I'm Prince Kushwaha
 </h1>
 
-<div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
-</div>
+<h3 align="center">
+  B.Tech Student • Python Learner • Aspiring AI/ML Engineer
+</h3>
 
-<div align="center">
-  <a href="mailto:princekushawaha91@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&center=true&vCenter=true&width=650&height=45&duration=3500&lines=Learning+Python+Step+by+Step;Practicing+DSA+with+Python;Exploring+AI+and+Machine+Learning;Growing+as+a+Student+Developer" />
+</p>
+
+---
+
+## 👨‍🎓 About Me
+
+- 🎓 B.Tech student with a strong interest in **Artificial Intelligence & Machine Learning**
+- 🐍 Learning and practicing **Python programming**
+- 📚 Currently focused on **Data Structures & Algorithms using Python**
+- 🤖 Exploring **AI/ML fundamentals**
+- 🌱 Believe in consistent learning and improvement
+
+---
+
+## 🎯 Current Focus
+
+- Python (Core → Advanced)
+- Data Structures & Algorithms
+- NumPy & Pandas (beginner level)
+- Machine Learning fundamentals
+- Backend basics with FastAPI
+
+---
+
+## ⚒️ Tech Stack (Learning & Using)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux,kali" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=blue-green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=princekushwaha9142&theme=blue-green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=blue-green&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:princekushawaha91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://www.linkedin.com/in/prince-kushwaha-9b255635b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prince-kushwaha-9b255635b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/PrinceKush31873/photo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://x.com/PrinceKush31873">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-</div>
-￼
-<hr/>
-
-<h3 align="center">💻 Aspiring AI/ML Engineer | Python Enthusiast | Lifelong Learner</h3>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I enjoy collaborating on real-world projects and challenges.
-- 🌱 Currently learning **Data Structures & Algorithms using Python**.
-- 💬 Ask me about **Python**, or anything [here](https://bio.link/princekumar123).
-- 🚀 Passionate about AI, Machine Learning, and Open Source.
-- 🇮🇳 Based in India.
-
----
-
-### ⚒️ Tech Stack & Tools
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,python,vscode,netlify,vercel,kali,linux" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=blue-green)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princekushhwaha9142&theme=blue-green)
-![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=princekushwaha9142&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)
-
-</div>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile! Let's connect and grow together. ✨</h3>
+<h3 align="center">
+  ⭐ Learning • Building • Improving every day 🚀
+</h3>
