@@ -11,6 +11,21 @@
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:princekushawaha91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prince-kushwaha-9b255635b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/PrinceKush31873">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 👨‍🎓 About Me
 
@@ -24,11 +39,29 @@
 
 ## 🎯 Current Focus
 
-- Python (Core → Advanced)
-- Data Structures & Algorithms
-- NumPy & Pandas (beginner level)
-- Machine Learning fundamentals
-- Backend basics with FastAPI
+- 🐍 **Python Programming**
+  - Improving core concepts, OOP, and clean coding practices
+
+- 📚 **Data Structures & Algorithms (Python)**
+  - Solving beginner to intermediate problems
+  - Strengthening logic and understanding time complexity
+
+- 📊 **Data Analysis Basics**
+  - Learning NumPy and Pandas for data manipulation
+  - Understanding data preparation for ML workflows
+
+- 🤖 **AI & Machine Learning**
+  - Studying ML fundamentals and core concepts
+  - Working towards hands-on ML projects
+
+- 🌐 **Backend & API Development**
+  - Learning FastAPI and REST API fundamentals
+  - Exploring backend deployment basics
+
+- 🛠️ **Tools & Environment**
+  - Using Git & GitHub for version control
+  - Working in Linux / Kali Linux environment
+
 
 ---
 
@@ -52,22 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=blue-green&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:princekushawaha91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prince-kushwaha-9b255635b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/PrinceKush31873">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
 </p>
 
 ---
