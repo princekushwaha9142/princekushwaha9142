@@ -1,94 +1,122 @@
-<h1 align="center">
-  Hi 👋, I'm Prince Kushwaha
-</h1>
+<div align="center">
 
-<h3 align="center">
-  B.Tech Student • Python Learner • Aspiring AI/ML Engineer
-</h3>
+# Hey, I'm Prince Kushwaha 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&center=true&vCenter=true&width=650&height=45&duration=3500&lines=Learning+Python+Step+by+Step;Practicing+DSA+with+Python;Exploring+AI+and+Machine+Learning;Growing+as+a+Student+Developer" />
-</p>
+Python Backend Developer · B.Tech Student · Building in public
 
----
-## 🌐 Connect With Me
+[Gmail](mailto:princekushawaha91@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prince-kushwaha-9b255635b/) · [X](https://x.com/PrinceKush31873) · [GitHub](https://github.com/princekushwaha9142)
 
-<p align="center">
-  <a href="mailto:princekushawaha91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prince-kushwaha-9b255635b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/PrinceKush31873">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 👨‍🎓 About Me
+## What I build
 
-- 🎓 B.Tech student with a strong interest in **Artificial Intelligence & Machine Learning**
-- 🐍 Learning and practicing **Python programming**
-- 📚 Currently focused on **Data Structures & Algorithms using Python**
-- 🤖 Exploring **AI/ML fundamentals**
-- 🌱 Believe in consistent learning and improvement
+I design and ship **production-grade Python backends** — not tutorial projects.  
+Every API I've built has real auth, real architecture, and real deployment.
 
----
-
-## 🎯 Current Focus
-
-- 🐍 **Python Programming**
-  - Improving core concepts, OOP, and clean coding practices
-
-- 📚 **Data Structures & Algorithms (Python)**
-  - Solving beginner to intermediate problems
-  - Strengthening logic and understanding time complexity
-
-- 📊 **Data Analysis Basics**
-  - Learning NumPy and Pandas for data manipulation
-  - Understanding data preparation for ML workflows
-
-- 🤖 **AI & Machine Learning**
-  - Studying ML fundamentals and core concepts
-  - Working towards hands-on ML projects
-
-- 🌐 **Backend & API Development**
-  - Learning FastAPI and REST API fundamentals
-  - Exploring backend deployment basics
-
-- 🛠️ **Tools & Environment**
-  - Using Git & GitHub for version control
-  - Working in Linux / Kali Linux environment
-
+Currently focused on **async FastAPI**, **PostgreSQL at scale**, and **AI/ML integration** in backend systems.
 
 ---
 
-## ⚒️ Tech Stack (Learning & Using)
+## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux,kali" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=blue-green&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=princekushwaha9142&theme=blue-green&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=blue-green&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<h3 align="center">
-  ⭐ Learning • Building • Improving every day 🚀
-</h3>
+## Currently
+
+- 🏗️ Building a SaaS Task Manager API — FastAPI + PostgreSQL + Docker + Redis, production-grade
+- 📚 Deepening DSA with Python — beginner to intermediate
+- 🤖 Studying AI/ML fundamentals — Scikit-learn, core concepts
+- ☁️ Learning Docker & deployment through live projects
+
+---
+
+## Shipped
+
+### 🏏 IPL Cricket Analytics Dashboard (v3.0)
+An 11-tab data web app covering IPL 2016–2026 — deployed on Streamlit Cloud.
+
+Batting & Bowling stats · Player Comparison with radar charts · India Map (Plotly Mapbox) · Match Predictor · Best XI Picker · Custom Chart Builder · AI Cricket Chatbot · IPL Quiz
+
+`Python` `Streamlit` `Plotly` `Pandas` `NumPy`
+
+[GitHub](https://github.com/princekushwaha9142/IPL-Stats-Dashboard) · [Live Demo →](https://ipl-stats-dashboard-i2ofenw7omdvvzudtribei.streamlit.app/)
+
+---
+
+### 📝 Blog API
+A full-featured blogging backend with an AI recommendation engine.
+
+JWT auth · Full CRUD posts · Nested comments & replies · Like / Bookmark · Search & filter · File upload · **AI-powered post recommendations** (TF-IDF + Cosine Similarity)
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Scikit-learn`
+
+[GitHub](https://github.com/princekushwaha9142)
+
+---
+
+### 🔐 Authentication System
+A standalone, production-ready auth backend.
+
+JWT access + refresh tokens · Token blacklist logout · Role-based access (Admin / User) · Google OAuth login · bcrypt password hashing
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Authlib` `Passlib`
+
+[GitHub](https://github.com/princekushwaha9142)
+
+---
+
+### 🏨 Booking System API
+A REST API for hotel and flight bookings with Redis caching.
+
+Hotel & flight search · Book / update / cancel reservations · JWT auth · Redis-cached search results · Async SQLAlchemy for high performance
+
+`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Redis` `JWT`
+
+[GitHub](https://github.com/princekushwaha9142)
+
+---
+
+### ⚙️ SaaS Task Manager API *(in progress)*
+A production-grade SaaS backend — 10-day structured build.
+
+4-layer architecture (routers → services → models → schemas) · Async SQLAlchemy · Alembic migrations · JWT auth with refresh · Redis · Dockerized
+
+`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Alembic` `Redis` `Docker`
+
+[GitHub](https://github.com/princekushwaha9142)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=princekushwaha9142&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Build real things. Ship them. Improve every day.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=princekushwaha9142&style=flat-square&color=00D9FF)
+
+</div>
