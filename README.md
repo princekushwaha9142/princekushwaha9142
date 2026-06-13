@@ -43,7 +43,7 @@ Currently focused on **async FastAPI**, **PostgreSQL at scale**, and **AI/ML int
 
 ---
 
-## Shipped
+## Projects
 
 ### 🏏 IPL Cricket Analytics Dashboard (v3.0)
 An 11-tab data web app covering IPL 2016–2026 — deployed on Streamlit Cloud.
