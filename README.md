@@ -63,7 +63,7 @@ JWT auth · Full CRUD posts · Nested comments & replies · Like / Bookmark · S
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Scikit-learn`
 
-[GitHub](https://github.com/princekushwaha9142)
+[GitHub](https://github.com/princekushwaha9142/Blog-API)
 
 ---
 
@@ -74,7 +74,7 @@ JWT access + refresh tokens · Token blacklist logout · Role-based access (Admi
 
 `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Authlib` `Passlib`
 
-[GitHub](https://github.com/princekushwaha9142)
+[GitHub](https://github.com/princekushwaha9142/Auth-System)
 
 ---
 
@@ -85,18 +85,18 @@ Hotel & flight search · Book / update / cancel reservations · JWT auth · Redi
 
 `FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Redis` `JWT`
 
-[GitHub](https://github.com/princekushwaha9142)
+[GitHub](https://github.com/princekushwaha9142/Booking-System)
 
 ---
 
 ### ⚙️ SaaS Task Manager API *(in progress)*
-A production-grade SaaS backend — 10-day structured build.
+A production-grade SaaS RESTAPI Backend.
 
 4-layer architecture (routers → services → models → schemas) · Async SQLAlchemy · Alembic migrations · JWT auth with refresh · Redis · Dockerized
 
 `FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Alembic` `Redis` `Docker`
 
-[GitHub](https://github.com/princekushwaha9142)
+[GitHub](https://github.com/princekushwaha9142/SaaS-RESTAPI-Backend)
 
 ---
 
