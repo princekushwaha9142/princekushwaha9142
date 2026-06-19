@@ -89,14 +89,15 @@ Hotel & flight search · Book / update / cancel reservations · JWT auth · Redi
 
 ---
 
-### ⚙️ SaaS Task Manager API *(in progress)*
-A production-grade SaaS RESTAPI Backend.
+### 🚀 SaaS Task Manager API — Live & Production-ready
 
-4-layer architecture (routers → services → models → schemas) · Async SQLAlchemy · Alembic migrations · JWT auth with refresh · Redis · Dockerized
+A production-grade SaaS REST API backend, fully deployed and live.
 
-`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Alembic` `Redis` `Docker`
+4-layer architecture (routers → services → models → schemas) · Async SQLAlchemy · Alembic migrations · JWT auth with refresh · Redis · Dockerized · 20 passing tests · CI/CD via GitHub Actions
 
-[GitHub](https://github.com/princekushwaha9142/SaaS-RESTAPI-Backend)
+`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Alembic` `Redis` `Docker` `JWT`
+
+🔗 [Live API Docs](https://saas-restapi-backend-production.up.railway.app/docs) · [GitHub](https://github.com/princekushwaha9142/SaaS-RESTAPI-Backend)
 
 ---
 
