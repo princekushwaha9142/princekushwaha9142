@@ -105,7 +105,7 @@ A production-grade SaaS REST API backend, fully deployed and live.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>](https://github-readme-stats.vercel.app/api?username=princekushwaha9142&show_icons=true&theme=tokyonight&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekushwaha9142&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=princekushwaha9142&theme=tokyonight&hide_border=true" />
