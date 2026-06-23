@@ -79,13 +79,13 @@ JWT access + refresh tokens · Token blacklist logout · Role-based access (Admi
 ---
 
 ### 🏨 Booking System API
-A REST API for hotel and flight bookings with Redis caching.
+A production-ready REST API for hotel and flight bookings with Redis caching, JWT auth, rate limiting, and background email notifications.
 
-Hotel & flight search · Book / update / cancel reservations · JWT auth · Redis-cached search results · Async SQLAlchemy for high performance
+Hotel & flight search · Book / update / cancel reservations · JWT auth · Redis caching · Rate limiting · Background email notifications · Alembic migrations · Docker · CI/CD · 12/12 tests passed
 
-`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Redis` `JWT`
+`FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Redis` `JWT` `SlowAPI` `Docker` `Pytest` `GitHub Actions` `Render`
 
-[GitHub](https://github.com/princekushwaha9142/Booking-System)
+🔗 [Live Docs](https://booking-system-skjo.onrender.com/docs) · [GitHub](https://github.com/princekushwaha9142/Booking-System)
 
 ---
 
